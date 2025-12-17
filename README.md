@@ -11,7 +11,7 @@ Développer un modèle qui classe les logements en 4 gammes de prix selon leurs 
   Matplotlib/Seaborn (EDA + visualisations)  
 
 ## Contenu repo
-  Projet_Python_Alex_Elisa_Remy.ipynb # Notebook complet  
+  Projet_Python_Alex_Elisa_Remy.ipynb # Notebook complet  (à ouvrir sur google colab, certain bug apparaissent seulement sur le github)
   rapport_projet.pdf # Rapport 14 pages  
   README.md # Ce fichier  
 
