@@ -10,10 +10,10 @@ Développer un modèle qui classe les logements en 4 gammes de prix selon leurs 
   SHAP (interprétabilité : force plots, importance variables)  
   Matplotlib/Seaborn (EDA + visualisations)  
 
-## 📁 Contenu repo
+## Contenu repo
   Projet_Python_Alex_Elisa_Remy.ipynb # Notebook complet  
   rapport_projet.pdf # Rapport 14 pages  
   README.md # Ce fichier  
 
-## 👥 Auteurs
+## Auteurs
 **Alex DauCourt** - **Elisa Maron** - **Remy Harle**
